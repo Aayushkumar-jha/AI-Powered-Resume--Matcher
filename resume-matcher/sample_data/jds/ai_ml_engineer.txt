@@ -1,0 +1,25 @@
+Job Title: AI/ML Engineer
+
+Overview
+We are hiring an AI/ML Engineer to build NLP and deep learning systems that power semantic search
+and document understanding.
+
+What You'll Do
+- Design, train and fine-tune deep learning models using PyTorch or TensorFlow
+- Build NLP pipelines with transformers, embeddings and large language models
+- Implement semantic search with sentence embeddings and vector databases
+- Deploy and serve models in production using Docker, Kubernetes and MLOps practices
+- Evaluate models with rigorous cross-validation and monitor model performance
+- Collaborate with data engineers and product teams
+
+Requirements
+- Python, PyTorch, TensorFlow, Deep Learning, NLP, Transformers, Machine Learning, Docker
+
+Preferred Qualifications
+- LLMs, Vector Databases, MLOps, Kubernetes, AWS, Computer Vision
+
+Experience
+- 3+ years of hands-on experience building machine learning systems
+
+Education
+- Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science or related field

@@ -1,0 +1,25 @@
+Job Title: Data Scientist
+
+Job Summary
+Join our analytics team to turn hiring and workforce data into actionable insights and
+predictive models.
+
+Responsibilities
+- Perform exploratory data analysis and statistical analysis on large datasets
+- Build, evaluate and deploy machine learning models for classification and forecasting
+- Develop feature engineering pipelines with Python, pandas and NumPy
+- Create dashboards and data visualizations to communicate insights to stakeholders
+- Design and analyze A/B tests and apply hypothesis testing
+- Write efficient SQL queries to extract and transform data
+
+Required Skills
+- Python, pandas, NumPy, scikit-learn, Machine Learning, Statistics, SQL, Data Visualization
+
+Nice to Have
+- Tableau or Power BI, Apache Spark, Deep Learning, AWS, Time Series
+
+Experience
+- 3-6 years of experience in data science or analytics
+
+Education
+- Master's degree in Statistics, Mathematics, Computer Science or Data Science
